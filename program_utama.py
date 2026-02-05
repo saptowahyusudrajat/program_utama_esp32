@@ -1,4 +1,4 @@
 from time import sleep
 def loop():
-  print('versi 1')
+  print('versi 2')
   sleep(1)
